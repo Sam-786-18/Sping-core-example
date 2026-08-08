@@ -75,6 +75,6 @@
     <finalName>SpringMVC_Proj27-AnnoLogin-SFCBAsic</finalName>
   </build>
     <properties>
-		<spring.version>4.3.9.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 	</properties>
 </project>
