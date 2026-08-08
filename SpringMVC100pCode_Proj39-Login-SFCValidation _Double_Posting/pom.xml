@@ -117,7 +117,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.source>1.8</maven.compiler.source>
-		<spring.version>4.3.9.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 	</properties>
   
    <description>SpringMVC100pCode_Proj39-Login-SFCValidation _Double_Posting</description>
