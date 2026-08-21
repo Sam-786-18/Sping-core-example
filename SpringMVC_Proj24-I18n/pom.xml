@@ -51,6 +51,6 @@
     <finalName>SpringMVC_Proj24-I18n</finalName>
   </build>
    <properties>
-  	<spring.version>4.2.2.RELEASE</spring.version>
+  	<spring.version>6.1.20</spring.version>
   </properties>
 </project>
