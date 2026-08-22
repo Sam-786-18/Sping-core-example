@@ -58,7 +58,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>6.2.19</version>
+			<version>7.0.9</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.springframework/spring-context-support -->
@@ -85,7 +85,7 @@
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-core</artifactId>
-			<version>6.2.8</version>
+			<version>7.1.1</version>
 		</dependency>
   </dependencies>
   <build>
