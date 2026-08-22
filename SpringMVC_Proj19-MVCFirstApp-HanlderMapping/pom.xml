@@ -51,6 +51,6 @@
     <finalName>SpringMVC_Proj19-MVCFirstApp-HanlderMapping</finalName>
   </build>
     <properties>
-  <spring.version>4.2.2.RELEASE</spring.version>
+  <spring.version>6.1.20</spring.version>
   </properties>
 </project>

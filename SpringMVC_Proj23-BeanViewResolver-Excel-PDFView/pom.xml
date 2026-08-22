@@ -79,6 +79,6 @@
 	</build>
 	
 	<properties>
-		<spring.version>4.3.8.RELEASE</spring.version>
+		<spring.version>6.1.20</spring.version>
 	</properties>
 </project>
